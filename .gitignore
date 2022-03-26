@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Agrego los json que son pesados
+*.json
+
 # C extensions
 *.so
 
